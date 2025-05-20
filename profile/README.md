@@ -15,7 +15,7 @@ Real people, real vibes. Safety is our top priority.
 🪷 Culturally Relevant UI/UX
 Built for India. From chai-date filters to festive badges — it feels like home.
 
-📱 Cross-platform Native App (Flutter/React Native)
+📱 Native App 
 Fast, smooth, and delightful — just like a good conversation.
 
 💻 How to Contribute
